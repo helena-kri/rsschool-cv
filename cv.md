@@ -1,5 +1,5 @@
 # **Alena Shylina**
-# **Contact information:**
+## **Contact information:**
 * **phone:** +375(33) 625-71-23
 * **e-mail:** helenashilina03@gmail.com
 * **rs school discord:** @helena-kri
